@@ -17,6 +17,9 @@ Currently building **[FMG Tech](https://fmg-tech.ir)** — industrial equipment 
 | [mycalender](https://github.com/soroush83faraz/mycalender) | Persian (Jalali) calendar app · **[Live demo](https://soroush83faraz.github.io/mycalender/)** | Flutter |
 | [Lonely-Boss](https://github.com/soroush83faraz/Lonely-Boss) | 2D boss-fight prototype — FSM-driven boss AI with multi-phase attacks | Unity / C# |
 | [moshavare-design-sample](https://github.com/soroush83faraz/moshavare-design-sample) | Counseling-services website design sample · **[Live demo](https://soroush83faraz.github.io/moshavare-design-sample/)** | Next.js |
+| [consult-center-design](https://github.com/soroush83faraz/consult-center-design) | "Aram" mental-health clinic prototype — marketing page + mock admin dashboard · **[Live demo](https://soroush83faraz.github.io/consult-center-design/)** | Next.js 15 |
+| [iustZ](https://github.com/soroush83faraz/iustZ) | Text-based post-apocalyptic RPG (group project) · **[Play in browser](https://soroush83faraz.github.io/iustZ/)** | C++ / WASM |
+| [L-system](https://github.com/soroush83faraz/L-system) | Fractal scripts + interactive explorer · **[Live explorer](https://soroush83faraz.github.io/L-system/)** | Python / JS |
 
 ## 🛠 Tech I work with
 
