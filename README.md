@@ -2,6 +2,8 @@
 
 Software developer — I build mobile apps with **Flutter**, web apps with **Next.js / TypeScript**, and backend & systems tools in **Go** and **Python**.
 
+🌐 **Portfolio: [soroush83faraz.github.io](https://soroush83faraz.github.io/)**
+
 Currently building **[FMG Tech](https://fmg-tech.ir)** — industrial equipment company website, rebuilt frontend with SEO automation.
 
 ## 🚀 Highlighted projects
