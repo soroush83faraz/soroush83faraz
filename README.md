@@ -10,6 +10,7 @@ Currently building **[FMG Tech](https://fmg-tech.ir)** — industrial equipment 
 
 | Project | What it is | Stack |
 |---|---|---|
+| [rehash-proj](https://github.com/soroush83faraz/rehash-proj) | Rehash ("Joino") — outdoor-activities platform: geospatial event search (PostGIS), OTP auth, real-time group chat, Docker deploy (group project) · **[Live site](https://joinoo.ir)** | Node.js / Next.js |
 | [LANLink](https://github.com/soroush83faraz/LANLink) | Local-network file transfer & communication — device pairing, WebSocket control plane, HTTP data plane. No cloud, no accounts. | Go |
 | [hospital-sim](https://github.com/soroush83faraz/hospital-sim) | Discrete-event simulation of hospital bed allocation — 4 ward policies, 35 replications, 95% CIs · **[Live report](https://soroush83faraz.github.io/hospital-sim/)** | Python |
 | [CPPiler](https://github.com/soroush83faraz/CPPiler) | Compiler front-end for a C++ subset — lexer, LL(1) predictive parser, parse tree | Python |
