@@ -41,9 +41,9 @@ I build mobile apps with **Flutter**, web apps with **Next.js / TypeScript**, an
 | **[trellomize](https://github.com/soroush83faraz/trellomize)** | Trello-style team task manager — projects, boards, member roles, logging and tests. `Python` | [Demo](https://soroush83faraz.github.io/trellomize/) |
 | **[iustZ](https://github.com/soroush83faraz/iustZ)** | Text-based post-apocalyptic RPG — group university project. `C++ / WASM` | [Play in browser](https://soroush83faraz.github.io/iustZ/) |
 | **[flutter_persian_calendar](https://github.com/soroush83faraz/flutter_persian_calendar)** | Flutter package for Persian (Jalali) calendar integration. `Dart` | [pub.dev](https://pub.dev/packages/flutter_persian_calendar) |
-| **[zohal](https://github.com/soroush83faraz/zohal)** | Time-manager for a kids' indoor playhouse — per-child play-session countdowns, Persian RTL UI. Group project. `Flutter` | — |
+| **[zohal](https://github.com/soroush83faraz/zohal)** | Time-manager for a kids' indoor playhouse — per-child play-session countdowns, Persian RTL UI. Group project. `Flutter` | [Demo](https://soroush83faraz.github.io/zohal/) |
 | **TE_Commerce** | Full e-commerce mobile app. Private repo. `Flutter` | — |
-| **[E-commerce](https://github.com/soroush83faraz/E-commerce)** | E-commerce shop app for Android & iOS, based on the FlutterShop template. `Flutter` | — |
+| **[E-commerce](https://github.com/soroush83faraz/E-commerce)** | E-commerce shop app for Android & iOS, based on the FlutterShop template. `Flutter` | [Demo](https://soroush83faraz.github.io/E-commerce/) |
 | **[Lonely-Boss](https://github.com/soroush83faraz/Lonely-Boss)** | 2D boss-fight prototype — FSM-driven boss AI with multi-phase attacks. `Unity / C#` | — |
 | **[maze-maverick](https://github.com/soroush83faraz/maze-maverick)** | Terminal maze game — university project. `C++` | — |
 | **[CPP-compiler](https://github.com/soroush83faraz/CPP-compiler)** | C++ subset compiler in a single Python file — regex tokenizer, parser, Graphviz parse trees. `Python` | — |
