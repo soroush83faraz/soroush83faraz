@@ -51,16 +51,39 @@ I build mobile apps with **Flutter**, web apps with **Next.js / TypeScript**, an
 
 </details>
 
-<!--
 ## 🏆 Honors & awards
 
-| Year | Achievement |
-|---|---|
-| 20XX | … |
-| 20XX | … |
+**🌍 International — invention & innovation**
 
-(Uncomment this section and fill in the rows when ready.)
--->
+| Year | Award |
+|---|---|
+| 2019 | 🥇 **Gold medal** — International Invention & Trade Expo (ITE), London — protective clothing against electromagnetic waves using polymer–carbon nanoparticles (team project) |
+| 2019 | 🥈 **Silver medal** — INOVA 44th International Invention Show, Zagreb — extending fruit shelf-life with a nano-chitosan edible film (team project) |
+| 2019 | 🥉 **Bronze medal** — INTARG International Invention & Innovation Show, Poland — NiO nanoparticles as catalysts for thermal decomposition of ammonium perchlorate (team project) |
+| 2018 | 🎖️ **Certificate of Honor** (top 30%) — International Math Kangaroo |
+
+**🧮 National — math & science**
+
+| Year | Award |
+|---|---|
+| 2019 | 🥈 Silver (math) + 🥉 bronze (biology) — Chehel-Cheragh national student competition |
+| 2018 | 🥈 Silver — Tehran Math House prize contest |
+| 2017–2018 | 🏅 Top rank (2018) and 2nd place (2017) — Nardebam math competitions |
+
+**🏅 Sports**
+
+| Years | Achievement |
+|---|---|
+| 2012–2018 | 🏊 Swimming — 10 medals in front crawl & breaststroke: 4 gold, 2 silver, 4 bronze |
+| 2021 | 🤽 Water polo — runner-up (silver), national U-17 premier league |
+| 2017–2018 | 🏀 Basketball — club gold (2018), regional silver (2017) |
+| 2012 | ♟️ Chess — gold medal |
+
+**🎼 Music, arts & research**
+
+- Santur, tonbak & piano performances — Hamsaz and student festivals (2017–2019); 🥇 first place, student theater festival (2018)
+- Nanotech research presented at ATF Cup — 11th Allameh Tabatabaei Research Festival (2019) — and the 8th Danesh Scientific Seminar
+- Top ranks in school-wide comprehensive exams (2017–2018)
 
 ## 🛠 Tech I work with
 
