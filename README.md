@@ -18,13 +18,15 @@ I build mobile apps with **Flutter**, web apps with **Next.js / TypeScript**, an
 
 | Project | What it is | Live |
 |---|---|---|
-| **[vista-estate](https://github.com/soroush83faraz/vista-estate)** | VISTA — luxury real-estate showcase, dark-gold RTL theme: cinematic intro, blueprint-to-photo scroll hero, 360° virtual tours, walkable 3D demo. `Astro` | [Demo](https://soroush83faraz.github.io/vista-estate/) |
+| **[vista-estate](https://github.com/soroush83faraz/vista-estate)** | VISTA — luxury real-estate showcase, dark-gold RTL theme: cinematic intro, Apple-style scroll-scrub video hero, 360° virtual tours, walkable 3D demo. `Astro` | [Demo](https://soroush83faraz.github.io/vista-estate/) |
 | **[consult-center-design](https://github.com/soroush83faraz/consult-center-design)** | "Aram" mental-health clinic prototype — marketing page + mock admin dashboard. `Next.js 15` | [Demo](https://soroush83faraz.github.io/consult-center-design/) |
 | **[moshavare-design-sample](https://github.com/soroush83faraz/moshavare-design-sample)** | Counseling-services website design sample. `Next.js` | [Demo](https://soroush83faraz.github.io/moshavare-design-sample/) |
 
 🎬 **VISTA in 10 seconds:**
 
 https://github.com/user-attachments/assets/c1e73143-c408-4409-adbf-22bcde93bb3c
+
+▶️ **[Open the live site → soroush83faraz.github.io/vista-estate](https://soroush83faraz.github.io/vista-estate/)**
 
 ## ⚙️ Engineering & CS projects
 
