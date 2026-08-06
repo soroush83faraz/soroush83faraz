@@ -19,6 +19,7 @@ I build mobile apps with **Flutter**, web apps with **Next.js / TypeScript**, an
 | Project | What it is | Live |
 |---|---|---|
 | **[vista-estate](https://github.com/soroush83faraz/vista-estate)** | VISTA — luxury real-estate showcase, dark-gold RTL theme: cinematic intro, Apple-style scroll-scrub video hero, 360° virtual tours, walkable 3D demo. `Astro` | [Demo](https://soroush83faraz.github.io/vista-estate/) |
+| **[kheradmand-mohaseb](https://github.com/soroush83faraz/kheradmand-mohaseb)** | Audit & financial-services firm site — services, engagement process, blog, and a reference section on Iran's auditing standards. Persian RTL, light/dark. `Next.js 15` | [Live](https://soroush83faraz.github.io/kheradmand-mohaseb/) |
 | **[consult-center-design](https://github.com/soroush83faraz/consult-center-design)** | "Aram" mental-health clinic prototype — marketing page + mock admin dashboard. `Next.js 15` | [Demo](https://soroush83faraz.github.io/consult-center-design/) |
 | **[moshavare-design-sample](https://github.com/soroush83faraz/moshavare-design-sample)** | Counseling-services website design sample. `Next.js` | [Demo](https://soroush83faraz.github.io/moshavare-design-sample/) |
 
@@ -32,6 +33,7 @@ https://github.com/user-attachments/assets/c1e73143-c408-4409-adbf-22bcde93bb3c
 
 | Project | What it is | Live |
 |---|---|---|
+| **[calso](https://github.com/soroush83faraz/calso)** | Persian (Jalali) calendar + task manager — offline-first PWA whose entire backend is reimplemented in the browser over IndexedDB, Persian natural-language quick-add, habits & Pomodoro, plus an MCP server. `React / Vite / SQLite` | [Open the app](https://soroush83faraz.github.io/calso/app/) |
 | **[LANLink](https://github.com/soroush83faraz/LANLink)** | Local-network file transfer & communication — trusted device pairing over LAN or hotspot, WebSocket control plane, HTTP data plane. No cloud, no accounts. `Go` | — |
 | **[CPPiler](https://github.com/soroush83faraz/CPPiler)** | Compiler front-end for a C++ subset — lexer, LL(1) predictive parser, parse tree. `Python` | [Try in browser](https://soroush83faraz.github.io/CPPiler/) |
 | **[hospital-sim](https://github.com/soroush83faraz/hospital-sim)** | Discrete-event simulation of hospital bed allocation — 4 ward policies, 35 replications, 95% confidence intervals. `Python` | [Report](https://soroush83faraz.github.io/hospital-sim/) |
