@@ -18,6 +18,7 @@ I build mobile apps with **Flutter**, web apps with **Next.js / TypeScript**, an
 
 | Project | What it is | Live |
 |---|---|---|
+| **[hv-discover-website](https://github.com/soroush83faraz/hv-discover-website)** | HV Discover — catalogue & request-a-quote site for a London cable fault-location equipment supplier, rebuilt from WordPress. Interactive hero that synthesises ten TDR traces with an explanatory hover card, a security-reviewed PHP form API, strict CSP, 2,000+ redirect rule checks. `Astro 5 / TypeScript / PHP` | [Preview](https://soroush83faraz.github.io/hv-discover-website/) |
 | **[vista-estate](https://github.com/soroush83faraz/vista-estate)** | VISTA — luxury real-estate showcase, dark-gold RTL theme: cinematic intro, Apple-style scroll-scrub video hero, 360° virtual tours, walkable 3D demo. `Astro` | [Demo](https://soroush83faraz.github.io/vista-estate/) |
 | **[kheradmand-mohaseb](https://github.com/soroush83faraz/kheradmand-mohaseb)** | Audit & financial-services firm site — services, engagement process, blog, and a reference section on Iran's auditing standards. Persian RTL, light/dark. `Next.js 15` | [Live](https://soroush83faraz.github.io/kheradmand-mohaseb/) |
 | **[consult-center-design](https://github.com/soroush83faraz/consult-center-design)** | "Aram" mental-health clinic prototype — marketing page + mock admin dashboard. `Next.js 15` | [Demo](https://soroush83faraz.github.io/consult-center-design/) |
